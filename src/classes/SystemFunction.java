@@ -10,7 +10,7 @@ public class SystemFunction {
 
         boolean success = false;
         String result;
-        
+
         Process p;
         BufferedReader input;
         StringBuffer cmdOut = new StringBuffer();
